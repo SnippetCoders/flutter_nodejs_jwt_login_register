@@ -42,6 +42,8 @@ app.use(
     path: [
       { url: "/users/login", methods: ["POST"] },
       { url: "/users/register", methods: ["POST"] },
+      { url: "/users/otpLogin", methods: ["POST"] },
+      { url: "/users/verifyOTP", methods: ["POST"] },
     ],
   })
 );

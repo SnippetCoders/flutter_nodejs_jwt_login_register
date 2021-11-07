@@ -14,6 +14,9 @@
     "express-unless": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.10",
-    "mongoose-unique-validator": "^3.0.0"
+    "mongoose-unique-validator": "^3.0.0",
+    "msg91": "^0.0.6",
+    "nodemon": "^2.0.14",
+    "otp-generator": "^3.0.0"
   }
 }
